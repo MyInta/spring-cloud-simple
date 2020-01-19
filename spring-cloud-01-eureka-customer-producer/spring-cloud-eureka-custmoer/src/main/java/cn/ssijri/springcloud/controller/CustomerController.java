@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * @author inta
  * @date 2020/1/12
- * @describe customer是顾客的意思，一半网上用consumer消费者表示
+ * @describe customer是顾客的意思，一般网上用consumer消费者表示
  */
 @RestController
 public class CustomerController {

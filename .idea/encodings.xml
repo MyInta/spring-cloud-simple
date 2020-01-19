@@ -6,6 +6,9 @@
     <file url="file://$PROJECT_DIR$/spring-cloud-01-eureka-customer-producer/spring-cloud-eureka-custmoer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-01-eureka-customer-producer/spring-cloud-eureka-producer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-01-eureka-simple" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/spring-cloud-02-eureka-cluster" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-02-config-eureka/spring-cloud-config-eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-02-config-eureka/spring-cloud-config-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-02-config-simple/spring-cloud-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-02-config-simple/spring-cloud-config-server" charset="UTF-8" />
   </component>
 </project>

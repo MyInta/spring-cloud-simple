@@ -8,6 +8,10 @@
         <option value="$PROJECT_DIR$/spring-cloud-01-eureka-cluster/spring-cloud-eureka-cluster/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-01-eureka-customer-producer/spring-cloud-eureka-custmoer/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-01-eureka-customer-producer/spring-cloud-eureka-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-02-config-simple/spring-cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-02-config-simple/spring-cloud-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-02-config-eureka/spring-cloud-config-eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-02-config-eureka/spring-cloud-config-eureka-server/pom.xml" />
       </list>
     </option>
   </component>
